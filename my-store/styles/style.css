@@ -28,7 +28,7 @@ body {
 img.logo {
     width: 5px;
     height: auto;
-    /* padding-left: 0.1px; */
+    padding-left: 100%;
 }
 
 /* nav a, */
