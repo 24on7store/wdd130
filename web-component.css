@@ -1,0 +1,67 @@
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    width: 100%;
+    background-color: gainsboro;
+  }
+  
+/* .title {
+    color: black;
+    font-size: 18px;
+}
+  
+
+
+.subtitle {
+    color: rgb(0, 153, 255);
+    font-size: 18px;
+    margin: 0.5em;
+
+} */
+
+.profile {
+    text-align: center;
+    color: blue;
+
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+/* .title,
+.subtitle {
+    display: inline; 
+ 
+} */
+h2.title {
+    text-align: left;
+    display: inline-block;
+
+ /* or inline-block */
+
+    color: black; /* Set headline color to black */
+  }
+  
+  p.subtitle {
+    display: inline-block; /* or inline-block */
+    
+
+ /* Remove any default margin */
+    color: rgb(0, 153, 255); /* Set paragraph color to blue */
+  }
+  
+
