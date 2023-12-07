@@ -32,7 +32,7 @@ body {
 img.logo {
     width: 5px;
     height: auto;
-    padding-left: auto;
+    /* padding: auto; */
 }
 
 /* nav a, */
@@ -84,7 +84,7 @@ nav {
 
 
 nav a:hover {
-    background-color: greenyellow;
+    background-color: #ADFF2F;
     color: burlywood;
 }
 
@@ -100,7 +100,7 @@ nav a:hover {
 
 .book:hover, .join:hover {
     background-color: #577590;
-    color: greenyellow;
+    color: #ADFF2F;
 }
 
 /* #background {
@@ -118,7 +118,7 @@ nav a:hover {
 
 
 .msg {
-    background-color: yellowgreen;  
+    background-color: #ADFF2F;  
     line-height: 1.5em;
     /* padding: 35px; */
 
@@ -134,7 +134,7 @@ nav a:hover {
 
 
 footer {
-    background-color: yellowgreen;
+    background-color: #ADFF2F;
 }
 
 
@@ -231,7 +231,7 @@ footer .social img {
 
 .card-img {
     width: 100%;
-    border: 10px solid yellowgreen;
+    border: 10px solid #ADFF2F;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #577590;
 }
